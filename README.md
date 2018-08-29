@@ -1,5 +1,5 @@
 # hps-python-unittest
-[![Build Status](https://travis-ci.org/hiptest/hps-python-unittest.svg?branch=master)](https://travis-ci.org/hiptest/hps-python-unittest)
+[![Build Status](https://travis-ci.org/marc-hern/hps-python-unittest.svg?branch=master)](https://travis-ci.org/marc-hern/hps-python-unittest)
 
 Hiptest publisher samples with Python/UnitTest
 
